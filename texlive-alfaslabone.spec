@@ -1,6 +1,6 @@
 Name:		texlive-alfaslabone
 Version:	57452
-Release:	1
+Release:	2
 Summary:	The Alfa Slab One font face with support for LaTeX and pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/alfaslabone
