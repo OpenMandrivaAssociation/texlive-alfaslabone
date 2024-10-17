@@ -3,7 +3,7 @@ Version:	57452
 Release:	2
 Summary:	The Alfa Slab One font face with support for LaTeX and pdfLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/alfaslabone
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/alfaslabone
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/alfaslabone.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/alfaslabone.doc.r%{version}.tar.xz
